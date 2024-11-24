@@ -48,13 +48,7 @@ const fuckThisShit = () => {
 
 
     const fuckingFunction = {
-        // 0x34af9: "Function that initiates something?",
-        // 0x58adc: "CALL EAX",
-        // 0x251a6: "Do some checks?",
         0x0c640: "Hmm",
-        // 0x58ade: "LOLOL"
-        // 0x7a210: "CHECK_DEVICE"
-        // 0x15c40: "ZALUPA",
     }
 
     const open = Module.getExportByName(null, 'open');
